@@ -1,0 +1,7 @@
+[package]
+name = "libwebp-rs"
+version = "0.2.17"
+edition = "2021"  # Rust version
+
+[dependencies]
+libc = { version = "0.2.152" }
